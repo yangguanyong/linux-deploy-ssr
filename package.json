@@ -6,6 +6,6 @@
   "author": "中投靓仔 <453493671@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.10.0"
+    "koa": "^2.15.4"
   }
 }
